@@ -15,7 +15,8 @@ TODO:
 - Alpha channel as a separate grayscale image. The user is expected to decode and use this grayscale image as the alpha component himself (through eg an opengl shader on the presentation side).
 - Delta encoding by comparing each 8x8 pixel block of the old and new image.
 - Jpeg encoding (DCT, entropy, ...)
+
 DONE:
-- nothing :)
+- nothing :-)
 
 ## Please note: this is work in progress, it will be a while before this will work.
